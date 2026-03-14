@@ -2,4 +2,4 @@
 _
 Este é um projeto para aprendizado com o desenvolvimemto utilizando das ferramentas git e github.
 
-Neste projeto apresenta informações sobre mim.
+Neste projeto apresenta informações sobre mim e meus contatos.
