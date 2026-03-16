@@ -1,0 +1,119 @@
+commit 535688661a707c65366fea3a6c6b4b368d7dc595
+Author: Ederson S. Schmidt <166855651+EdersonHTT@users.noreply.github.com>
+Date:   Fri Mar 13 21:41:07 2026 -0300
+
+    Update README.md
+
+commit 5fbf5d9767c49c3e4a94599ca865f1cd7f380034
+Author: Ederson S. Schmidt <166855651+EdersonHTT@users.noreply.github.com>
+Date:   Fri Mar 13 21:39:37 2026 -0300
+
+    Update README.md
+
+commit 31c8e1d15bf3fa44c7ea96d9b781285053df653f
+Author: Ederson S. Schmidt <166855651+EdersonHTT@users.noreply.github.com>
+Date:   Fri Mar 13 21:37:30 2026 -0300
+
+    docs(README):Update README.md
+
+commit 1df2b2574f2eeb6bdaf26004a81f6dc76859eaba
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 21:35:37 2026 -0300
+
+    docs(README): atualiza documentação
+
+commit 74eb99047e6f4ae7869778e54b1fedee3ca5ede9
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 21:33:48 2026 -0300
+
+    docs(README): atualiza documentação
+
+commit 7ecf788f118fad836fd0c0b0d6f2777c895552c0
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 21:33:26 2026 -0300
+
+    docs(README): atualiza documentação
+
+commit 73a1e030578d4e618c82fa1ad5673d23053dcb26
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 21:30:51 2026 -0300
+
+    docs(README): atualiza documentação
+
+commit 57c10225f338d2a5fd05f65dc18241fd7e6fae27
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 21:29:23 2026 -0300
+
+    feat(contato): adiciona indormações de contato
+
+commit acd5f36d06bb4afc75a4f34e5156f91ef28b7859
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 21:28:32 2026 -0300
+
+    feat(contato): cria build basica html
+
+commit 53031bbb98df3c81aaa663fdd366398867ba72eb
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 21:21:26 2026 -0300
+
+    feat(contato): cria build basica html
+
+commit c0dbfa7aa93f4183c5730109c22bbcd7016179c3
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 21:20:34 2026 -0300
+
+    feat(contato): cria arquivo contato
+
+commit ad0792e608f732dd96d216caf8f3c2bcd73a2b5a
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 21:19:10 2026 -0300
+
+    feat(index): adiciona link para a pagina sobreMim
+
+commit 68d16792e34e5fdd434d9800b9b86b7ff0a85a2a
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 21:13:20 2026 -0300
+
+    style(index): estiliza body
+
+commit 6a7a7f8d48857b53404cba5fe423708f1acef1c8
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 21:11:32 2026 -0300
+
+    style(index): estiliza h1
+
+commit 3611183031febbf6ec4e05b0f8b07d0a1beab103
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 21:07:50 2026 -0300
+
+    feat(sobreMim): adiciona informações sobre mim
+
+commit 8ff2bcb63ab27d5b6a18130194956fd0b35752b2
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 20:18:04 2026 -0300
+
+    feat(sobreMim): adiciona titulo 'Sobre Mim' em uma tag h1
+
+commit 1a842f02963fed9ce3c795cca3d49c9221845896
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 20:15:09 2026 -0300
+
+    feat(sobreMim): criado base html
+
+commit 3177f36860e59976bb58208393c13b0e8ba5e036
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 20:14:39 2026 -0300
+
+    feat(sobreMim): criado arquivo sobreMim
+
+commit 55cbc493ed948ba994bb0da44636b280f8d1e250
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 20:09:16 2026 -0300
+
+    feat(index): faz pagina inicial
+
+commit ff75361881973b50343e75f99b2461efbf17f618
+Author: EDERSON DA SILVA SCHMIDT <05194255020@senacrs.edu.br>
+Date:   Fri Mar 13 19:58:58 2026 -0300
+
+    first commit

@@ -1,0 +1,20 @@
+5356886 Update README.md
+5fbf5d9 Update README.md
+31c8e1d docs(README):Update README.md
+1df2b25 docs(README): atualiza documentação
+74eb990 docs(README): atualiza documentação
+7ecf788 docs(README): atualiza documentação
+73a1e03 docs(README): atualiza documentação
+57c1022 feat(contato): adiciona indormações de contato
+acd5f36 feat(contato): cria build basica html
+53031bb feat(contato): cria build basica html
+c0dbfa7 feat(contato): cria arquivo contato
+ad0792e feat(index): adiciona link para a pagina sobreMim
+68d1679 style(index): estiliza body
+6a7a7f8 style(index): estiliza h1
+3611183 feat(sobreMim): adiciona informações sobre mim
+8ff2bcb feat(sobreMim): adiciona titulo 'Sobre Mim' em uma tag h1
+1a842f0 feat(sobreMim): criado base html
+3177f36 feat(sobreMim): criado arquivo sobreMim
+55cbc49 feat(index): faz pagina inicial
+ff75361 first commit
